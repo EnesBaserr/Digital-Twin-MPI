@@ -1,8 +1,6 @@
-CMPE 300: Analysis of Algorithms
-Project 2
-#Contributors
-  [Yasin ATLI - 2020400246](https://github.com/TheRealLowyer)
-  [Enes BAŞER - 2020400141](https://github.com/EnesBaserr)
+# Contributors
+  [***Yasin ATLI - 2020400246***](https://github.com/TheRealLowyer)
+  [***Enes BAŞER - 2020400141***](https://github.com/EnesBaserr)
 
 
 This project is designed to enhance our understanding of the core concepts in paralel programming. We will be given the input file of a factory production cycle that includes machines and first products of the leaf machines and our task is to thoroughly analyze it and creating paralel production processes for every cycle.
