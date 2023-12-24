@@ -1,9 +1,9 @@
 CMPE 300: Analysis of Algorithms
 Project 2
+#Contributors
+  [Yasin ATLI - 2020400246](https://github.com/TheRealLowyer)
+  [Enes BAŞER - 2020400141](https://github.com/EnesBaserr)
 
-Yasin ATLI - 2020400246
-Enes BAŞER - 2020400141
-Group: 49
 
 This project is designed to enhance our understanding of the core concepts in paralel programming. We will be given the input file of a factory production cycle that includes machines and first products of the leaf machines and our task is to thoroughly analyze it and creating paralel production processes for every cycle.
 
@@ -44,8 +44,8 @@ The liblaries need to be installed :
 
 This is how you can run the implemented algorithm code in Python
 
->>>>  cd <where the unzipped file is>
+cd <where the unzipped file is>
 
->>>>  mpiexec -n 1 python hw.py <input_file_name> <output_file_name>
+mpiexec -n 1 python hw.py <input_file_name> <output_file_name>
 
 And the products of the clock cycles and the logs of the machines will be written in the output file . 
