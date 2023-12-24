@@ -42,7 +42,7 @@ The liblaries need to be installed :
 
 This is how you can run the implemented algorithm code in Python
 
-cd <where the unzipped file is>
+cd where_the_unzipped_file_is
 
 mpiexec -n 1 python hw.py <input_file_name> <output_file_name>
 
