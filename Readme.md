@@ -1,8 +1,8 @@
 # Contributors
-  [***Yasin ATLI - 2020400246***](https://github.com/TheRealLowyer)
+  [***Yasin ATLI - 2020400246***](https://github.com/TheRealLowyer) \
   [***Enes BAŞER - 2020400141***](https://github.com/EnesBaserr)
 
-
+# Description
 This project is designed to enhance our understanding of the core concepts in paralel programming. We will be given the input file of a factory production cycle that includes machines and first products of the leaf machines and our task is to thoroughly analyze it and creating paralel production processes for every cycle.
 
 A factory runs many processes parallel to each other. To simulate the factory better, and to increase
@@ -33,13 +33,13 @@ Machines wear out as they perform their operations. After a certain threshold, t
 the control room that they need maintenance. You may assume that maintenance happens instantaneously and machines perform their operations as usual. The simulation is not intended to
 simulate breakdown times. It aims to predict costs of maintenances, which depends on various
 factors. Cost = (Accumulated_value + Threshold_value -1) * Wear_factor_of_the_operation
-
+# Dependencies
 The liblaries need to be installed :
--mpi4py
--numpy
--sys
-
-
+-mpi4py \
+-numpy \
+-sys \
+through pip instal <...>
+# Run and Test
 This is how you can run the implemented algorithm code in Python
 
 cd where_the_unzipped_file_is
